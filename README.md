@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagohc20
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m currently learning html, css, git, github and javascript
 
 
 <!---
